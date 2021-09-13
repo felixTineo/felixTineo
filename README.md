@@ -1,4 +1,4 @@
-[![Header](https://github.com/felixTineo/felixTineo/blob/main/assets/header.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/felixTineo/felixTineo/blob/main/assets/header.png "Header")](https://felixtineo.com/)
 <!--### Hi there 👋
 
 <!--
